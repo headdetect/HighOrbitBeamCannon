@@ -1,0 +1,9 @@
+c:\users\brayden\documents\visual studio 2015\Projects\HighOrbitBeamCannon\HighOrbitBeamCannon\bin\Debug\HighOrbitBeamCannon.exe.config
+c:\users\brayden\documents\visual studio 2015\Projects\HighOrbitBeamCannon\HighOrbitBeamCannon\bin\Debug\HighOrbitBeamCannon.exe
+c:\users\brayden\documents\visual studio 2015\Projects\HighOrbitBeamCannon\HighOrbitBeamCannon\bin\Debug\HighOrbitBeamCannon.pdb
+c:\users\brayden\documents\visual studio 2015\Projects\HighOrbitBeamCannon\HighOrbitBeamCannon\obj\Debug\HighOrbitBeamCannon.csprojResolveAssemblyReference.cache
+c:\users\brayden\documents\visual studio 2015\Projects\HighOrbitBeamCannon\HighOrbitBeamCannon\obj\Debug\HighOrbitBeamCannon.Properties.Resources.resources
+c:\users\brayden\documents\visual studio 2015\Projects\HighOrbitBeamCannon\HighOrbitBeamCannon\obj\Debug\HighOrbitBeamCannon.csproj.GenerateResource.Cache
+c:\users\brayden\documents\visual studio 2015\Projects\HighOrbitBeamCannon\HighOrbitBeamCannon\obj\Debug\HighOrbitBeamCannon.exe
+c:\users\brayden\documents\visual studio 2015\Projects\HighOrbitBeamCannon\HighOrbitBeamCannon\obj\Debug\HighOrbitBeamCannon.pdb
+c:\users\brayden\documents\visual studio 2015\Projects\HighOrbitBeamCannon\HighOrbitBeamCannon\obj\Debug\HighOrbitBeamCannon.MainForm.resources
